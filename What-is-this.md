@@ -1,7 +1,7 @@
 # What is RT Sheet Editor ?
 
-Welcome to RT Sheet Editor the rhythm game creation tool! This tool has been designed to simplify the rhythm game development process, offering an intuitive interface and powerful features for creating captivating musical experiences.
+Welcome to Rhythm Sheet Editor, the tool that helps you create rhythm games! Rhythm Sheet Editor is a cue-creation platform for rhythm game developers. It has been specially designed to handle a wide variety of situations and help develop the distinctive character of any rhythm game.
 
 
 
-![An image](./assets/ViewImage.jpg)
+![An image](./assets/ViewImage.png)

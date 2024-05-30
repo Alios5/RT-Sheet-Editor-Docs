@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "RT Sheet Editor Documentation",
+  title: "RT Sheet Editor",
   description: "Documentation",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -10,7 +10,6 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/What-is-this' }
     ],
-
     sidebar: [
       {
         text: 'Introduction',
@@ -25,11 +24,26 @@ export default defineConfig({
           {text: 'Home page', link: '/Home'},
           {text: 'Sheet editor page', link: '/Sheet-editor'}
         ]
+      },
+      {
+        text: 'Tutorials and Guides',
+        items:[
+          {
+            text: 'Guides',
+            items:[
+              {text: 'Launch project', link:'/Guides/1'}
+            ]
+          }
+        ]
       }
     ],
-
+    footer: {
+      message: 'Get for Windows, MacOS and Linux',
+      copyright: 'Rhythm Sheet Editor. Copyright © 2024 EpicAlios (Alain Kouya).'
+    },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'discord', link: 'https://discord.gg/fJNpNCJ2b9' }
     ]
-  }
+  },
+  
 })

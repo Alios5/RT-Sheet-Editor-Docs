@@ -25,7 +25,7 @@ export default defineConfig({
           {text: 'Sheet editor page', link: '/Sheet-editor'}
         ]
       },
-      {
+      /*{
         text: 'Tutorials and Guides',
         items:[
           {
@@ -35,7 +35,7 @@ export default defineConfig({
             ]
           }
         ]
-      }
+      }*/
     ],
     footer: {
       message: 'Get for Windows, MacOS and Linux',

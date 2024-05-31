@@ -161,4 +161,3 @@ The volume slider offers quick and easy control over the volume of the audio tra
 ### 8. Music speed options
 The music speed buttons allow you to adjust the speed at which music is played (0.5X, 0.8X, 1X, 1.5X). Listening to music at different speeds is useful for checking the synchronization of notes with the rhythm, or for placing notes over fast music
 
-![An video](./assets/video/CreatProject.mp4)

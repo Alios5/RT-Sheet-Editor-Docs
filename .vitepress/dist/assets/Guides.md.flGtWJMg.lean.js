@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a1 as o}from"./chunks/framework.DCKU21so.js";const f=JSON.parse('{"title":"Create a project","description":"","frontmatter":{},"headers":[],"relativePath":"Guides.md","filePath":"Guides.md"}'),r={name:"Guides.md"},i=o("",18),n=[i];function s(h,c,d,l,u,p){return t(),a("div",null,n)}const b=e(r,[["render",s]]);export{f as __pageData,b as default};
